@@ -1,0 +1,200 @@
+.navbar-custom {
+    background-color: white;
+
+}
+
+body {
+    line-height: 34px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #777;
+    font-size: 18px;
+    background-image: url('../imgs/concrete_seamless.png'); 
+    margin-top: -20px;
+    margin-left: -15px;
+    
+
+    
+}
+.containerMain{
+    border-bottom: 2px solid #ccc;
+    margin-bottom: 10px;
+    height: 112px;
+    background-color: white;
+    width: 100%;
+    margin: 0 auto;
+    position: fixed;
+    z-index: 1000;
+    
+}
+.auth-image {
+    float: left;
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 25px;
+  }
+
+  
+.txtLogo{
+        width: 250px;
+        height: 90px;
+        font-family: Georgia, Times, "Times New Roman", serif;
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 90px;
+        color: #fff;
+        text-align: center;
+        text-decoration: none;
+        background: #4aaaa5;
+}
+
+.navbarlinks{
+    margin-top: 50px;
+}
+.navbarlinks a{
+    color: #999;
+    text-decoration: none;
+    padding-left: 0;
+    margin-left: 0;
+    border-left: 0 none;
+}
+.navbarlinks a:hover{
+    color: #666;
+}
+
+footer {
+    padding: 30px 0;
+    position: relative;
+    bottom: -100px;
+    width: 101%;
+    clear: both;
+    font-size: 12px;
+    color: #ccc;
+    text-align: center;
+    background: #666;
+    border-top: 8px solid #4aaaa5;
+  }
+  .mainContent{
+      margin-top: 130px;
+      clear: both;
+      display: block;
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+
+
+  }
+
+  .linksimgs{
+      width: 62px;
+      height: auto;
+  }
+
+  h1,
+  h2,
+  h3,
+  p {
+    margin-bottom: 20px;
+  }
+  h1,
+  h2,
+  h3 {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 700;
+    color: #4aaaa5;
+
+  }
+  h1 {
+    padding-bottom: 20px;
+    font-size: 30px;
+    line-height: 49px;
+    border-bottom: 3px solid #ddd;
+  }
+
+  
+
+
+  .sidebar h2 {
+    padding-bottom: 20px;
+    font-size: 23px;
+    margin-bottom: 15px;
+    line-height: 49px;
+    border-bottom: 2px solid #eee;
+  }
+
+  .sidebar {
+    margin-top: 130px;
+
+    clear: both;
+    display: block;
+    background-color: white;
+    float: right;
+    width: 100%;
+    padding: 30px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+  }
+
+  
+  .btn-custom{
+    padding: 10px 30px;
+    font-size: 18px;
+    color: #fff;
+    cursor: pointer;
+    background: #4aaaa5;
+    border: 0 none;
+  }
+
+  label{
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    border: 0;
+    color: #777;
+  }
+  input[type=text],
+  input[type=email],
+  textarea {
+    display: block;
+    width: 100%;
+    height: 35px;
+    padding: 0 10px;
+    font-size: 14px;
+    border: 1px solid #ddd;
+  }
+
+  .form-group{
+      margin-top: -10px;
+  }
+.work{
+    position: relative;
+}
+  .work h3{
+    position: absolute;
+    bottom: 40px;
+    width: 92%;
+    padding: 15px;
+    margin-bottom: 0;
+    /* margin: 0 0; */
+    padding-right: -50;
+    font-weight: 300;
+    line-height: 30px;
+    color: #fff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+    
+  }
+
+  .work img{
+      width: 100%;
+      margin-bottom: 20px;
+      border: 0 none;
+      opacity: 0.8;
+
+  }
